@@ -43,6 +43,6 @@ def using_flatten(instruments)
   instruments.flatten
 end
 
-def using_delete(instructors, "Steven")
+def using_delete(array, string )
   instructors.delete("Steven")
 end
